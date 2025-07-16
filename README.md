@@ -46,7 +46,7 @@ Telefone: +55 15 98122-3418
 </td>
 
 <tr>
-	<th colspan="2">
+	<th colspan="1">
 		Team of programmers
 	</th>
 </tr>
