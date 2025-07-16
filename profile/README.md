@@ -29,9 +29,9 @@ Telefone: +55 15 98122-3418
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <th colspan="2" style="text-align:center;">Manager</th>
+    <th colspan="2">Manager</th>
   </tr>
   <tr>
     <td colspan="2" align="center">
@@ -42,7 +42,7 @@ Telefone: +55 15 98122-3418
   </tr>
 
   <tr>
-    <th colspan="2" style="text-align:center;">Team of Programmers</th>
+    <th colspan="2">Team of Programmers</th>
   </tr>
   <tr>
     <td align="center">
