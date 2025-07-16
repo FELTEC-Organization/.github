@@ -8,13 +8,13 @@ Conectar tecnologia, pessoas e propósito para desenvolver soluções digitais q
 
 ## Nossos Valores
 
-- Integridade em cada entrega
-- Respeito às pessoas e às ideias
-- Segurança como prioridade
-- Comprometimento com resultados
-- Humildade para evoluir sempre
-- Colaboração como cultura
-- Inovação com responsabilidade
+- Integridade em cada entrega  
+- Respeito às pessoas e às ideias  
+- Segurança como prioridade  
+- Comprometimento com resultados  
+- Humildade para evoluir sempre  
+- Colaboração como cultura  
+- Inovação com responsabilidade  
 
 ## Especializações
 
@@ -22,8 +22,7 @@ Desenvolvimento Web, Aplicações Mobile, UI/UX Design, APIs, Microsserviços, C
 
 ## Contact
 
-Site: [https://feltecsolutions.com.br](https://feltecsolutions.com.br)
-
+Site: [https://feltecsolutions.com.br](https://feltecsolutions.com.br)  
 Telefone: +55 15 98122-3418
 
 # Organograma Corporativo
@@ -43,7 +42,7 @@ Telefone: +55 15 98122-3418
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="[https://avatars.githubusercontent.com/u/32839051?v=4](https://avatars.githubusercontent.com/u/123522640?v=4)" width="70"> | [Felipe Camargo](https://github.com/Felipe-Camargo12) |  Head of Feltec |
+| <img src="https://avatars.githubusercontent.com/u/123522640?v=4" width="70"> | [Felipe Camargo](https://github.com/Felipe-Camargo12) |  Head of Feltec |
 </td>
 
 <tr>
@@ -62,7 +61,7 @@ Telefone: +55 15 98122-3418
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="[https://avatars.githubusercontent.com/u/32839051?v=4](https://avatars.githubusercontent.com/u/123522640?v=4)" width="70"> | [Felipe Camargo](https://github.com/Felipe-Camargo12) |  Technical Lead |
+| <img src="https://avatars.githubusercontent.com/u/123522640?v=4" width="70"> | [Felipe Camargo](https://github.com/Felipe-Camargo12) |  Technical Lead |
 
 </td>
 
@@ -70,7 +69,7 @@ Telefone: +55 15 98122-3418
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="[https://avatars.githubusercontent.com/u/26862420?v=4](https://avatars.githubusercontent.com/u/77246516?v=4)" width="70"> | [Gabriel Oliveira](https://github.com/gabrieldeoliveira04) |  Full Stack Engineer |
+| <img src="https://avatars.githubusercontent.com/u/77246516?v=4" width="70"> | [Gabriel Oliveira](https://github.com/gabrieldeoliveira04) |  Full Stack Engineer |
 
 </td>
 
