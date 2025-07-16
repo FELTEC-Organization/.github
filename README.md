@@ -1,101 +1,78 @@
-# 💡 Feltec | Soluções em TI
+# Feltec | Soluções em TI
 
-A **Feltec Solutions IT** é uma empresa especializada em **soluções tecnológicas sob medida**, atuando com foco em desenvolvimento **web**, **mobile** e **prototipação de sistemas**.
+A Feltec Solutions IT é uma empresa especializada em soluções tecnológicas sob medida, atuando com foco em desenvolvimento web, mobile e prototipação de sistemas. Unimos inovação, performance e experiência do usuário para entregar projetos eficientes, seguros e de alto impacto. Com uma equipe dedicada e apaixonada por tecnologia, ajudamos empresas a evoluírem digitalmente, oferecendo serviços personalizados que acompanham as tendências e necessidades do mercado atual.
 
-Unimos **inovação**, **performance** e **experiência do usuário** para entregar projetos eficientes, seguros e de alto impacto. Com uma equipe dedicada e apaixonada por tecnologia, ajudamos empresas a evoluírem digitalmente, oferecendo serviços personalizados que acompanham as tendências e necessidades do mercado atual.
+## Nossa Missão
 
----
+Conectar tecnologia, pessoas e propósito para desenvolver soluções digitais que transformam o cotidiano de empresas e indivíduos, promovendo eficiência, inovação e impacto positivo.
 
-## 🎯 Nossa Missão
+## Nossos Valores
 
-Conectar tecnologia e propósito para criar soluções que facilitem o dia a dia das pessoas, potencializem negócios e gerem impacto positivo na sociedade.
+- Integridade em cada entrega
+- Respeito às pessoas e às ideias
+- Segurança como prioridade
+- Comprometimento com resultados
+- Humildade para evoluir sempre
+- Colaboração como cultura
+- Inovação com responsabilidade
 
----
+## Especializações
 
-## 💎 Nossos Valores
+Desenvolvimento Web, Aplicações Mobile, UI/UX Design, APIs, Microsserviços, Cloud, Integrações, Android, Java, Visual Studio, C# .NET, Angular, React.JS, Vue.JS, NoSQL, Project Management.
 
-- 🛡️ Integridade
-- 🤝 Respeito
-- 🔒 Segurança
-- 🙌 Humildade
-- 🤖 Inovação com responsabilidade
-- 👨‍💻 Comprometimento com resultados
+## Contact
 
----
+Site: [https://feltecsolutions.com.br](https://feltecsolutions.com.br)
 
-## 🚀 Especializações
+Telefone: +55 15 98122-3418
 
-> Nossas tecnologias e áreas de atuação:
-
-- **Mobile:** Android (Kotlin), React Native
-- **Back-end:** Java, C# .NET
-- **Front-end:** Angular, React.js, Vue.js
-- **Banco de Dados:** NoSQL, PostgreSQL, MySQL
-- **Ferramentas & IDEs:** Visual Studio, VS Code, GitHub, Figma
-- **Gestão de Projetos:** Metodologias Ágeis, Scrum, Kanban
-
----
-
-## 📞 Contato
-
-- 🌐 Site: [feltecsolutions.com.br](https://feltecsolutions.com.br)
-- 📱 Telefone: +55 (15) 98122-3418
-- 📧 E-mail: contato@feltecsolutions.com.br
-
----
-
-# 🏢 Organograma Corporativo
+# Organograma Corporativo
 
 <div align="center">
-
-## 👥 @feltec
+	
+## @feltec
 
 <table>
 <tr>
 	<th colspan="2">
-		👨‍💼 Manager
+    Manager
 	</th>
 </tr>
-<tr>
-<td align="center">
-	<img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="70" /><br/>
-	<a href="https://github.com/Felipe-Camargo12"><strong>Felipe Camargo</strong></a><br/>
-	Head of Feltec
+  
+<td>
+
+| | Nome | Função |
+| -------------- | ------------- | ------------- |
+| <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="70"> | [Felipe Camargo](https://github.com/Felipe-Camargo12) |  Head of Feltec |
 </td>
+
+<tr>
+	<th colspan="2">
+		Staff Team
+	</th>
 </tr>
 
 <tr>
 	<th colspan="2">
-		🧑‍💻 Staff Team
+		Team of programmers
 	</th>
 </tr>
+  
+<td>
 
-<tr>
-	<th colspan="2">
-		👨‍💻 Team of Programmers
-	</th>
-</tr>
+| | Nome | Função |
+| -------------- | ------------- | ------------- |
+| <img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="70"> | [Felipe Camargo](https://github.com/Felipe-Camargo12) |  Technical Lead |
 
-<tr>
-<td align="center">
-	<img src="https://avatars.githubusercontent.com/u/32839051?v=4" width="70" /><br/>
-	<a href="https://github.com/Felipe-Camargo12"><strong>Felipe Camargo</strong></a><br/>
-	Technical Lead
 </td>
 
-<td align="center">
-	<img src="https://avatars.githubusercontent.com/u/26862420?v=4" width="70" /><br/>
-	<a href="https://github.com/gabrieldeoliveira04"><strong>Gabriel Oliveira</strong></a><br/>
-	Full Stack Engineer
+<td>
+
+| | Nome | Função |
+| -------------- | ------------- | ------------- |
+| <img src="https://avatars.githubusercontent.com/u/26862420?v=4" width="70"> | [Gabriel Oliveira](https://github.com/gabrieldeoliveira04) |  Full Stack Engineer |
+
 </td>
-</tr>
 
 </table>
 </div>
-
----
-
-<p align="center">
-  <strong>Feltec Solutions IT</strong><br/>
-  Tecnologia com propósito, inovação com resultado.
-</p>
