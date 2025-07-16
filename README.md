@@ -25,11 +25,9 @@ Desenvolvimento Web, Aplicações Mobile, UI/UX Design, APIs, Microsserviços, C
 Site: [https://feltecsolutions.com.br](https://feltecsolutions.com.br)  
 Telefone: +55 15 98122-3418
 
-# Organograma Corporativo
+# Composição da equipe
 
 <div align="center">
-	
-## @feltec
 
 <table>
 <tr>
