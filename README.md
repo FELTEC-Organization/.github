@@ -18,7 +18,7 @@ Conectar tecnologia, pessoas e propósito para desenvolver soluções digitais q
 
 ## Especializações
 
-Desenvolvimento Web, Aplicações Mobile, UI/UX Design, APIs, Microsserviços, Cloud, Integrações, Android, Java, Visual Studio, C# .NET, Angular, React.JS, Vue.JS, NoSQL, Project Management.
+Desenvolvimento Web, Aplicações Mobile, UI/UX Design, APIs, Microsserviços, Cloud, Integrações, Android, Java, Visual Studio, C# .NET, Angular, React.JS, Next.JS, Vue.JS, Node.JS, SQL, NoSQL, Project Management.
 
 ## Contact
 
@@ -47,12 +47,6 @@ Telefone: +55 15 98122-3418
 
 <tr>
 	<th colspan="2">
-		Staff Team
-	</th>
-</tr>
-
-<tr>
-	<th colspan="2">
 		Team of programmers
 	</th>
 </tr>
@@ -75,3 +69,10 @@ Telefone: +55 15 98122-3418
 
 </table>
 </div>
+
+---
+
+<p align="center">
+  <strong>Feltec Solutions IT</strong><br/>
+  Tecnologia com propósito, inovação com resultado.
+</p>
