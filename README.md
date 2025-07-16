@@ -33,7 +33,7 @@ Telefone: +55 15 98122-3418
 
 <table>
 <tr>
-	<th colspan="2">
+	<th colspan="1">
     Manager
 	</th>
 </tr>
@@ -46,7 +46,7 @@ Telefone: +55 15 98122-3418
 </td>
 
 <tr>
-	<th colspan="1">
+	<th colspan="2">
 		Team of programmers
 	</th>
 </tr>
