@@ -33,17 +33,20 @@ Telefone: +55 15 98122-3418
 
 <table>
 <tr>
-	<th colspan="1">
+  <th colspan="2">
     Manager
-	</th>
+  </th>
 </tr>
-  
-<td>
+
+<tr>
+  <td colspan="2" align="center">
 
 | | Nome | Função |
 | -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/123522640?v=4" width="70"> | [Felipe Camargo](https://github.com/Felipe-Camargo12) |  Head of Feltec |
-</td>
+| <img src="https://avatars.githubusercontent.com/u/123522640?v=4" width="70"> | [Felipe Camargo](https://github.com/Felipe-Camargo12) | Head of Feltec |
+
+  </td>
+</tr>
 
 <tr>
 	<th colspan="2">
