@@ -30,45 +30,34 @@ Telefone: +55 15 98122-3418
 <div align="center">
 
 <table>
-<tr>
-  <th colspan="2">
-    Manager
-  </th>
-</tr>
+  <tr>
+    <th colspan="2" style="text-align:center;">Manager</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://avatars.githubusercontent.com/u/123522640?v=4" width="80"/><br/>
+      <a href="https://github.com/Felipe-Camargo12"><strong>Felipe Camargo</strong></a><br/>
+      Head of Feltec
+    </td>
+  </tr>
 
-<tr>
-  <td colspan="2" align="center">
-
-| | Nome | Função |
-| -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/123522640?v=4" width="70"> | [Felipe Camargo](https://github.com/Felipe-Camargo12) | Head of Feltec |
-
-  </td>
-</tr>
-
-<tr>
-	<th colspan="2">
-		Team of programmers
-	</th>
-</tr>
-  
-<td>
-
-| | Nome | Função |
-| -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/123522640?v=4" width="70"> | [Felipe Camargo](https://github.com/Felipe-Camargo12) |  Technical Lead |
-
-</td>
-
-<td>
-
-| | Nome | Função |
-| -------------- | ------------- | ------------- |
-| <img src="https://avatars.githubusercontent.com/u/77246516?v=4" width="70"> | [Gabriel Oliveira](https://github.com/gabrieldeoliveira04) |  Full Stack Engineer |
-
-</td>
-
+  <tr>
+    <th colspan="2" style="text-align:center;">Team of Programmers</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/123522640?v=4" width="70"/><br/>
+      <a href="https://github.com/Felipe-Camargo12">Felipe Camargo</a><br/>
+      Technical Lead
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/77246516?v=4" width="70"/><br/>
+      <a href="https://github.com/gabrieldeoliveira04">Gabriel Oliveira</a><br/>
+      Full Stack Engineer
+    </td>
+  </tr>
 </table>
+
 </div>
 
 ---
