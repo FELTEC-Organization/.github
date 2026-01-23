@@ -57,6 +57,9 @@ Telefone: +55 15 98122-3418
     </td>
   </tr>
 
+  <tr>
+    <th colspan="2">Team of Audiovisual</th>
+  </tr>
     <tr>
     <td colspan="2" align="center">
       <a href="https://www.instagram.com/coimbra.editor/">
