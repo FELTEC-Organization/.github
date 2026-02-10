@@ -63,7 +63,7 @@ Telefone: +55 15 98122-3418
     <tr>
     <td colspan="2" align="center">
       <a href="https://www.instagram.com/coimbra.editor/">
-        <img src="https://instagram.fsod2-1.fna.fbcdn.net/v/t51.2885-19/616302206_18121010182564797_1628139107501308380_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MTEuYzIifQ&_nc_ht=instagram.fsod2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QF3Ll3hakUswwKuSh14B8EBIt-Fj0WeXkfQ0Wve65xRO53F7Aw8oS66FRq37YRrvJY&_nc_ohc=b3RKVgZkJ7AQ7kNvwETrPRf&_nc_gid=BzSFUgkA0KDEGVknVyVumQ&edm=AEYEu-QBAAAA&ccb=7-5&oh=00_AfoF86hWK-USOYRfUQjbep1wtePD0oDW_qUngGMpV4jheQ&oe=69786DEF&_nc_sid=ead929" width="80" alt="Gabriel Coimbra"/><br/>
+        <img src="https://instagram.fsod2-1.fna.fbcdn.net/v/t51.2885-19/616302206_18121010182564797_1628139107501308380_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MTEuYzIifQ&_nc_ht=instagram.fsod2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QFXrW1LflF8SYRTIX5zyf4vXqWFPJf_VwxR4xH3Z3lTQfwjt4P9nqT-9yGhR5_iwqA&_nc_ohc=WnT4Z7gE9ZAQ7kNvwGx4DtX&_nc_gid=jGuJGnk5-8bNS-rSbViiSg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfuVqK0biHStsCcjIARC3K8nYvpNTSHt8CkWs_iULSEmaQ&oe=699109EF&_nc_sid=7a9f4b" width="80" alt="Gabriel Coimbra"/><br/>
       </a>
       <a href="https://www.instagram.com/coimbra.editor/"><strong>Gabriel Coimbra</strong></a><br/>
       Visual Storryteller/Editor
